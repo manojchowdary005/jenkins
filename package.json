@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://git-codecommit.us-west-2.amazonaws.com/v1/repos/codeDeployDemo"
+    "url": "https://github.com/manojchowdary005/jenkins.git"
   },
   "keywords": [
     "node"
